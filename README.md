@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=grivdm)
 [![codewars](https://www.codewars.com/users/G_I_D/badges/micro)](https://www.codewars.com/users/G_I_D)  
- I'm passionate about creating and building applications that solve problems and make people's lives easier. This is my GitHub profile where I showcase my projects and share my progress as I continue to learn and grow as a developer.
+As an enthusiastic full-stack developer, my focus is creating and building applications that solve problems and make people's lives easier. This is my GitHub profile where I showcase my projects and share my progress as I continue to learn and grow as a developer.
  
 ## My Skills
 As an entry-level developer, I'm still developing my skills, but I have experience in the following:
