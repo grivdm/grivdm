@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Dmitry Grishin
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Passionate Web Developer</h3>
 
-<!--
-**grivdm/grivdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=grivdm)
+[![codewars](https://www.codewars.com/users/G_I_D/badges/micro)](https://www.codewars.com/users/G_I_D)  
+ I'm passionate about creating and building applications that solve problems and make people's lives easier. This is my GitHub profile where I showcase my projects and share my progress as I continue to learn and grow as a developer.
+ 
+## My Skills
+As an entry-level developer, I'm still developing my skills, but I have experience in the following:
 
-Here are some ideas to get you started:
++ Python (Django, FastAPI, Pandas etc.)
++ React.js
++ HTML/CSS
++ JavaScript
++ Basic knowledge of Angular 
++ Various software development tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always looking to expand my skill set, and I'm currently learning new technologies like Node.js and Express.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grivdm&layout=compact)](https://github.com/grivdm/github-readme-stats)
+
+
+## My Goals
+My ultimate goal is to become a skilled and knowledgeable developer who can create innovative and impactful applications. In the short term, I'm focusing on:
+
++ Expanding my knowledge of both back-end and front-end technologies
++ Building more complex and ambitious projects  
+
+## Get in Touch  
+Thank you for taking the time to visit my GitHub profile. If you have any questions, suggestions, or just want to say hello, please feel free to reach out to me! You can contact me through:  
+<a href="https://www.linkedin.com/in/grishindm" >
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/mrG_I_D" >
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="mailto:grivdm94@gmail.com" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
