@@ -16,7 +16,7 @@ As an entry-level developer, I'm still developing my skills, but I have experien
 + Basic knowledge of Angular 
 + Various software development tools  
 
-I'm always looking to expand my skill set, and I'm currently learning new technologies like Node.js and Express.
+I'm always looking to expand my skill set, and I'm currently learning new technologies and languages like Node.js, Express and Java.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grivdm&layout=compact)](https://github.com/grivdm/github-readme-stats)
