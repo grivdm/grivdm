@@ -7,16 +7,19 @@
 As an enthusiastic full-stack developer, my focus is creating and building applications that solve problems and make people's lives easier. This is my GitHub profile where I showcase my projects and share my progress as I continue to learn and grow as a developer.
  
 ## My Skills
-As an entry-level developer, I'm still developing my skills, but I have experience in the following:
+As a developer, I am always looking to expand my skill set. Currently, my skills include:
 
 + Python (Django, FastAPI, Pandas etc.)
++ Node.js (Express)
 + React.js
-+ HTML/CSS
 + JavaScript
++ HTML/CSS 
++ CSS Frameworks (Bootstrap, SASS, Material-UI)
++ Databases (PostgreSQL, MongoDB, Oracle)
 + Basic knowledge of Angular 
 + Various software development tools  
 
-I'm always looking to expand my skill set, and I'm currently learning new technologies and languages like Node.js, Express and Java.
+I'm constantly learning and expanding my skill set to stay up-to-date with the latest industry trends and developments.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grivdm&layout=compact)](https://github.com/grivdm/github-readme-stats)
