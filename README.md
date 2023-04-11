@@ -10,9 +10,11 @@ As an enthusiastic full-stack developer, my focus is creating and building appli
 As a developer, I am always looking to expand my skill set. Currently, my skills include:
 
 + Python (Django, FastAPI, Pandas etc.)
++ JavaScript
++ TypeScript
 + Node.js (Express)
 + React.js
-+ JavaScript
++ Next.js
 + HTML/CSS 
 + CSS Frameworks (Bootstrap, SASS, Material-UI)
 + Databases (PostgreSQL, MongoDB, Oracle)
