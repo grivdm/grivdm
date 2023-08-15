@@ -25,12 +25,7 @@ I'm constantly learning and expanding my skill set to stay up-to-date with the l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grivdm&layout=compact)](https://github.com/grivdm/github-readme-stats)
 
-
-## My Goals
-My ultimate goal is to become a skilled and knowledgeable developer who can create innovative and impactful applications. In the short term, I'm focusing on:
-
-+ Expanding my knowledge of both back-end and front-end technologies
-+ Building more complex and ambitious projects  
+ 
 
 ## Get in Touch  
 Thank you for taking the time to visit my GitHub profile. If you have any questions, suggestions, or just want to say hello, please feel free to reach out to me! You can contact me through:  
