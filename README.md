@@ -19,7 +19,6 @@ As a developer, I am always looking to expand my skill set. Currently, my skills
 + Basic knowledge of Angular 
 + Various software development tools  
 
-I'm constantly learning and expanding my skill set to stay up-to-date with the latest industry trends and developments.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grivdm&layout=compact)](https://github.com/grivdm/github-readme-stats)
@@ -27,7 +26,7 @@ I'm constantly learning and expanding my skill set to stay up-to-date with the l
  
 
 ## Get in Touch  
-Thank you for taking the time to visit my GitHub profile. If you have any questions, suggestions, or just want to say hello, please feel free to reach out to me! You can contact me through:  
+If you have any questions or suggestions, please feel free to reach out to me! You can contact me through:  
 <a href="https://www.linkedin.com/in/grishindm" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
