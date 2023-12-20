@@ -2,15 +2,17 @@
 <h3 align="center">Passionate Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=grivdm)  
-As an enthusiastic full-stack developer, my focus is creating and building applications that solve problems and make people's lives easier. This is my GitHub profile where I showcase my projects and share my progress as I continue to learn and grow as a developer.
+
+ As an enthusiastic full-stack developer, my focus is creating and building applications that solve problems and make people's lives easier.
  
 ## My Skills
-As a developer, I am always looking to expand my skill set. Currently, my skills include:
 
 + Python (Django, FastAPI, Pandas etc.)
++ Dart
++ Flutter
 + JavaScript
 + TypeScript
-+ Node.js (Express)
++ Node.js 
 + React.js
 + Next.js
 + HTML/CSS 
