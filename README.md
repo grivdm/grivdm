@@ -4,22 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=grivdm)  
 
  As an enthusiastic full-stack developer, my focus is creating and building applications that solve problems and make people's lives easier.
- 
-## My Skills
 
-+ Python (Django, FastAPI, Pandas etc.)
-+ Dart
-+ Flutter
-+ JavaScript
-+ TypeScript
-+ Node.js 
-+ React.js
-+ Next.js
-+ HTML/CSS 
-+ CSS Frameworks (Bootstrap, SASS, Material-UI)
-+ Databases (PostgreSQL, MongoDB, Oracle)
-+ Basic knowledge of Angular 
-+ Various software development tools  
 
 
 
